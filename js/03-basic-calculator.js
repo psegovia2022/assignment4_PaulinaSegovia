@@ -45,7 +45,7 @@ import calculator from "./modules/calculator.js";
 // console.log(calculator(number1, number2));
 
 
-console.log(calculator());
+console.log(calculator(number1, number2));
 
 // ***********   I don't know what is making this function NOT working!
 // ***********   Zak, could you give me some feedback please?
